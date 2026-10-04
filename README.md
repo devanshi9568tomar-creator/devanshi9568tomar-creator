@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Devanshi 👋
 
-<!--
-**devanshi9568tomar-creator/devanshi9568tomar-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA final-year student and aspiring **Data Analyst**.
+I enjoy turning raw data into useful insights.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Excel (Pivot Tables, INDEX/MATCH, Advanced Filter)
+- SQL (PostgreSQL)
+- Python (NumPy, Pandas) - learning
+- Power BI, Tableau - upcoming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently
+- Learning Python, Pandas and Power BI
+- Building SQL and Excel projects
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/devanshi-tomar-34abb93a3
+- Email: devanshi9568tomar@gmail.com
