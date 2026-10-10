@@ -8,6 +8,14 @@ I enjoy turning raw data into useful insights.
 - SQL (PostgreSQL)
 - Python (NumPy, Pandas) - learning
 - Power BI, Tableau - upcoming
+- ## Projects
+
+### SQL Sales Analysis
+Analysed a 100-row sales dataset in PostgreSQL to answer 18 business questions using filtering, aggregation and GROUP BY.
+
+- **Tools:** PostgreSQL, pgAdmin
+- **Key finding:** Furniture drives about 52% of total sales
+- **Repo:** [Sql-sales-analysis](https://github.com/devanshi9568tomar-creator/Sql-sales-analysis)
 
 ## 🌱 Currently
 - Learning Python, Pandas and Power BI
